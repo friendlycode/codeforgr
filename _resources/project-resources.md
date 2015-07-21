@@ -38,7 +38,7 @@ Contents:
 
 ## Licensing your work and collaborating
 
-Licensing sounds boring, but it's the best way to keep your code open to others. If you don't provide a license, your work is presumed to be fully copyrighted and therefore closed to others. Code for DC recommends keeping your license in a `LICENSE.md` file. If any explanation is necessary for contributions by others, we recommend including that in your readme or in a separate `CONTRIBUTING.md` file.
+Licensing sounds boring, but it's the best way to keep your code open to others. If you don't provide a license, your work is presumed to be fully copyrighted and therefore closed to others. Friendly Code recommends keeping your license in a `LICENSE.md` file. If any explanation is necessary for contributions by others, we recommend including that in your readme or in a separate `CONTRIBUTING.md` file.
 
 [Choose A License](http://choosealicense.com/)
 

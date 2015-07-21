@@ -7,7 +7,7 @@ edit_link: https://editfordc.herokuapp.com/document/f37eceab-5a56-41b4-ba19-2e90
 
 # How to Make a Blog Post
 
-The Code for DC blog is open for contributions for the community. Here's how you do it:
+The Friendly Code blog is open for contributions for the community. Here's how you do it:
 
 ## Propose your post
 
@@ -19,7 +19,7 @@ If you haven't already, go to the [site's repo](https://github.com/codefordc/cod
 
 ## Create a new file for your post and add your avatar
 
-In a Jekyll site like Code for DC's, blog posts live in the `blog` folder. There are two folders there: `_drafts` and `_posts`. If you were working on a live version of the site, you'd use the `_drafts` folder to hide your post until it was ready, but since you're on a separate fork you should just work in `_posts`.
+In a Jekyll site like Friendly Code's, blog posts live in the `blog` folder. There are two folders there: `_drafts` and `_posts`. If you were working on a live version of the site, you'd use the `_drafts` folder to hide your post until it was ready, but since you're on a separate fork you should just work in `_posts`.
 
 Create a new file in `_posts`, with the name `yyyy-mm-dd-your-post-title`. You can use either the `.md` or `.html` file extension, depending on whether you wrote your post in Markdown or HTML.
 
@@ -50,4 +50,4 @@ Once you've committed your post to your fork of the repo, run jekyll and check t
 
 jekyll serve --watch --future
 
-Point your browser to localhost:4000/blog to see your handiwork. When you're ready, open a pull request from your fork to the Code for DC repo. We'll review the post and, if everything is good to go, we'll merge it in and you're done!
+Point your browser to localhost:4000/blog to see your handiwork. When you're ready, open a pull request from your fork to the Friendly Code repo. We'll review the post and, if everything is good to go, we'll merge it in and you're done!

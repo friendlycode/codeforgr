@@ -1,6 +1,6 @@
 # Code For DC Website
 
-This is the repository for the website for Code for DC, the DC chapter of the Code for America Brigade program.
+This is the repository for the website for Friendly Code, the DC chapter of the Code for America Brigade program.
 
 This site is built on Github pages and uses Jekyll for its blog.
 

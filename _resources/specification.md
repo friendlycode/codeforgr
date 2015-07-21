@@ -82,7 +82,7 @@ This is based on the work done by [BetaNYC](https://github.com/BetaNYC/civic.jso
         "email": "contactus@example.com",
         "twitter": "@codefordc"
     },
-    "bornAt": "Code for DC",
+    "bornAt": "Friendly Code",
     "geography": "DC",
     "communityPartner": {"Community Organization":"http://example.com"},
     "politicalEntity": {"Office of Something":"http://something.dc.gov/"},

@@ -1,6 +1,6 @@
 ---
 layout: resource
-title: Partnering with Code for DC
+title: Partnering with Friendly Code
 type: document
 ---
 
